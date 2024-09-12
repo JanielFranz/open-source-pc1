@@ -1,0 +1,6 @@
+{
+  "footer": {
+    "information": "Usuario cualquiera. Todos los derechos reservados",
+    "author": "Desarrollado por {{ author }}"
+  }
+}
